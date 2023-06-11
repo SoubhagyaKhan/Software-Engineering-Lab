@@ -1,6 +1,6 @@
      Name		ID	Balance
 Soubhagya Khan	       123	5000
 Anirban Dey            120      6000 
-Supratick Mondal       1000     70000   
+Supratick Mondal       1000     70   
 Baidurya Debnath       45000    5000 
 Ankit Pandey           12356  34414
